@@ -15,7 +15,7 @@ Com base nas descrições técnicas oficiais da WorldSkills, os projetos e trein
 * **Design e Documentação:** MS Visio e Draw.io
 
 ## 📂 Estrutura Sugerida do Repositório
-*(Sinta-se à vontade para criar essas pastas conforme for subindo seus arquivos)*
+
 * 📁 `01_Banco_de_Dados/` - Scripts SQL, modelagem e importação de dados.
 * 📁 `02_Desktop/` - Soluções nativas para Windows.
 * 📁 `03_Web/` - Soluções baseadas na arquitetura cliente-servidor.
