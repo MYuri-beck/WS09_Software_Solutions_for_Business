@@ -11,6 +11,7 @@ Telefone varchar(11) not null
 
 create table Products(
 ID smallint identity primary key,
+Nome varchar(60) not null,
 Categoria varchar (60) not null,
 Preco decimal (10,2) not null,
 Custo decimal (10,2) not null,
@@ -38,9 +39,8 @@ DataFim date not null
 
 Create table Orders(
 ID smallint identity primary key,
-
 IDLoja smallint not null,
-constraint fk_id_lojas foreign key (IDLoja) references Stores(ID),
+constraint fk_id_lojas foreign key (IDLoja) references stores(ID),
 IDCliente smallint not null,
 Constraint fk_id_cliente foreign key (IDCliente) references Customers(ID),
 IDPromocao smallint,
@@ -58,4 +58,3 @@ Quantidade smallint not null,
 PrecoUnitario decimal(10,2),
 primary key (IDPedido, IDProduto)
 );
-
