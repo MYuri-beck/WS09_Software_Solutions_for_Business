@@ -1,0 +1,36 @@
+CREATE TABLE UserTypes (
+    ID SMALLINT IDENTITY PRIMARY KEY,
+    GUID UNIQUEIDENTIFIER,
+    Name VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE Users (
+    ID SMALLINT IDENTITY PRIMARY KEY,
+    UserTypeID SMALLINT,
+    GUID UNIQUEIDENTIFIER,
+    Username VARCHAR(60) NOT NULL,
+    Password VARCHAR(60) NOT NULL,
+    FullName VARCHAR(120) NOT NULL,
+    Gender VARCHAR(1) NOT NULL,
+    BirthDate DATE,
+    FamilyCount INT NOT NULL,
+    CONSTRAINT fk_id_tipo FOREIGN KEY (UserTypeID) REFERENCES UserTypes(ID)
+);
+
+INSERT INTO UserTypes(GUID, Name) 
+VALUES 
+    (NEWID(), 'Home Owner'), 
+    (NEWID(), 'Traveler');
+
+INSERT INTO Users(FullName, Gender, BirthDate, FamilyCount, UserTypeId, Username, Password, GUID) 
+VALUES 
+    ('Kim Lee', 'M', '1985-10-15', 4, 1, 'KMLeee', 'Batatinha123', NEWID()),
+    ('Maria Silva', 'F', '1992-05-20', 1, 2, 'maria kurrie', 'batata1234kaka', NEWID());
+
+SELECT 
+    u.FullName, 
+    ut.Name AS TipoDeUsuario
+FROM 
+    Users u
+INNER JOIN 
+    UserTypes ut ON u.UserTypeID = ut.ID;

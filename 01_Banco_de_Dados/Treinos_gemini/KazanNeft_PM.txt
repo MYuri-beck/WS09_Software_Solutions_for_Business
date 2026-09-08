@@ -1,0 +1,42 @@
+create table Tasks (
+IdTarefa smallint identity primary key,
+NomeTarefa varchar(60) not null
+);
+
+create table Resources(
+IdRecurso smallint identity primary key,
+NomeRecurso varchar(60)
+);
+
+Create table ProgressUpdate(
+IdAtualizacao smallint identity primary key,
+DataAtualizacao date not null,
+Progresso int not null,
+StatusAtualizacao varchar(60) not null,
+DescricaoAtualizacao varchar(60) not null,
+
+IdTarefa smallint,
+constraint fk_id_tarefa foreign key (IdTarefa) references Tasks(IdTarefa),
+
+IdRecurso smallint,
+constraint fk_id_recurso foreign key (IdRecurso) references Resources(IdRecurso)
+);
+
+insert into Tasks (NomeTarefa) values ('Configurar Servidor'), ('Criar Tela de Login');
+
+insert into Resources(NomeRecurso) values ('Mariana Costa'), ('Lucas Silva');
+
+insert into ProgressUpdate(IdRecurso,IdTarefa, DataAtualizacao, Progresso,StatusAtualizacao,DescricaoAtualizacao) values 
+(1,1,'2026-08-25',50,'Em Andamento','Servidor Linunx instaciado'), 
+(2,2,'2026-08-26',100,'Concluído', 'Testes finalizados');	
+
+SELECT 
+    pu.DataAtualizacao AS Data,
+    r.NomeRecurso AS 'Nome do Recurso',
+    pu.Progresso,
+    pu.StatusAtualizacao AS Status,
+    pu.DescricaoAtualizacao AS Descricao
+FROM 
+    ProgressUpdate pu
+INNER JOIN 
+    Resources r ON r.IdRecurso = pu.IdR

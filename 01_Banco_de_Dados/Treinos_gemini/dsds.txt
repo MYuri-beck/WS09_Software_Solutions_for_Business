@@ -1,0 +1,24 @@
+Create table Warehouses(
+IdArmazem smallint identity primary key,
+NomeArmazem varchar(60) not null,
+);
+
+Create table Parts(
+IdPeca smallint identity primary key,
+NomePeca varchar(60) not null
+);
+
+Create table Inventory(
+IdArmazem smallint,
+constraint fk_id_armazem foreign key (IdArmazem) references Warehouses(IdArmazem),
+
+IdPeca smallint,
+constraint fk_id_peca foreign key (IdPeca) references Parts(IdPeca),
+
+Quantidade int not null,
+constraint pk_composta primary key (IdArmazem, IdPeca)
+);
+
+update Inventory
+set Quantidade = quantidade + 20
+where IdPeca = 1 and IdArmazem = 2;
