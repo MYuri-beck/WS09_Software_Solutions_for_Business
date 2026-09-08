@@ -1,6 +1,6 @@
-create database BelleCroissantLyonnais_DB;
+create database BelleCroissantLyonnais_DB1;
 
-use BelleCroissantLyonnais_DB;
+use BelleCroissantLyonnais_DB1;
 
 create table stores(
 ID smallint identity primary key,
