@@ -1,0 +1,16 @@
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\03_Logica_de_programacao\Course\Course\bin\Debug\net10.0\Course.exe
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\03_Logica_de_programacao\Course\Course\bin\Debug\net10.0\Course.deps.json
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\03_Logica_de_programacao\Course\Course\bin\Debug\net10.0\Course.runtimeconfig.json
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\03_Logica_de_programacao\Course\Course\bin\Debug\net10.0\Course.dll
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\03_Logica_de_programacao\Course\Course\bin\Debug\net10.0\Course.pdb
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\03_Logica_de_programacao\Course\Course\obj\Debug\net10.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\03_Logica_de_programacao\Course\Course\obj\Debug\net10.0\Course.AssemblyInfoInputs.cache
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\03_Logica_de_programacao\Course\Course\obj\Debug\net10.0\Course.AssemblyInfo.cs
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\03_Logica_de_programacao\Course\Course\obj\Debug\net10.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\03_Logica_de_programacao\Course\Course\obj\Debug\net10.0\Course.sourcelink.json
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\03_Logica_de_programacao\Course\Course\obj\Debug\net10.0\Course.dll
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\03_Logica_de_programacao\Course\Course\obj\Debug\net10.0\refint\Course.dll
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\03_Logica_de_programacao\Course\Course\obj\Debug\net10.0\Course.pdb
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\03_Logica_de_programacao\Course\Course\obj\Debug\net10.0\Course.genruntimeconfig.cache
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\03_Logica_de_programacao\Course\Course\obj\Debug\net10.0\ref\Course.dll
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\03_Logica_de_programacao\Course\Course\obj\Debug\net10.0\Course.csproj.Up2Date

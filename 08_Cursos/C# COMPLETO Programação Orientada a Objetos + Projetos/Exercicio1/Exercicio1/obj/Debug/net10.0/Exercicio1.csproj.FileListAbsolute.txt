@@ -1,0 +1,16 @@
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio1\Exercicio1\bin\Debug\net10.0\Exercicio1.exe
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio1\Exercicio1\bin\Debug\net10.0\Exercicio1.deps.json
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio1\Exercicio1\bin\Debug\net10.0\Exercicio1.runtimeconfig.json
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio1\Exercicio1\bin\Debug\net10.0\Exercicio1.dll
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio1\Exercicio1\bin\Debug\net10.0\Exercicio1.pdb
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio1\Exercicio1\obj\Debug\net10.0\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio1\Exercicio1\obj\Debug\net10.0\Exercicio1.AssemblyInfoInputs.cache
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio1\Exercicio1\obj\Debug\net10.0\Exercicio1.AssemblyInfo.cs
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio1\Exercicio1\obj\Debug\net10.0\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio1\Exercicio1\obj\Debug\net10.0\Exercicio1.sourcelink.json
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio1\Exercicio1\obj\Debug\net10.0\Exercicio1.dll
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio1\Exercicio1\obj\Debug\net10.0\refint\Exercicio1.dll
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio1\Exercicio1\obj\Debug\net10.0\Exercicio1.pdb
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio1\Exercicio1\obj\Debug\net10.0\Exercicio1.genruntimeconfig.cache
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio1\Exercicio1\obj\Debug\net10.0\ref\Exercicio1.dll
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio1\Exercicio1\obj\Debug\net10.0\Exercicio1.csproj.Up2Date
