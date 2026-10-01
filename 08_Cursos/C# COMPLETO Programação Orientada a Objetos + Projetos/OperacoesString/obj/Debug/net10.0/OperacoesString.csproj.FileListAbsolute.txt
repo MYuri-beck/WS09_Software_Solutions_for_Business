@@ -1,0 +1,16 @@
+C:\Users\Yuri Mendes\Desktop\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\OperacoesString\obj\Debug\net10.0\OperacoesString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuri Mendes\Desktop\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\OperacoesString\obj\Debug\net10.0\OperacoesString.AssemblyInfoInputs.cache
+C:\Users\Yuri Mendes\Desktop\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\OperacoesString\obj\Debug\net10.0\OperacoesString.AssemblyInfo.cs
+C:\Users\Yuri Mendes\Desktop\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\OperacoesString\obj\Debug\net10.0\OperacoesString.csproj.CoreCompileInputs.cache
+C:\Users\Yuri Mendes\Desktop\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\OperacoesString\obj\Debug\net10.0\OperacoesString.sourcelink.json
+C:\Users\Yuri Mendes\Desktop\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\OperacoesString\bin\Debug\net10.0\OperacoesString.exe
+C:\Users\Yuri Mendes\Desktop\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\OperacoesString\bin\Debug\net10.0\OperacoesString.deps.json
+C:\Users\Yuri Mendes\Desktop\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\OperacoesString\bin\Debug\net10.0\OperacoesString.runtimeconfig.json
+C:\Users\Yuri Mendes\Desktop\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\OperacoesString\bin\Debug\net10.0\OperacoesString.dll
+C:\Users\Yuri Mendes\Desktop\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\OperacoesString\bin\Debug\net10.0\OperacoesString.pdb
+C:\Users\Yuri Mendes\Desktop\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\OperacoesString\obj\Debug\net10.0\OperacoesString.dll
+C:\Users\Yuri Mendes\Desktop\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\OperacoesString\obj\Debug\net10.0\refint\OperacoesString.dll
+C:\Users\Yuri Mendes\Desktop\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\OperacoesString\obj\Debug\net10.0\OperacoesString.pdb
+C:\Users\Yuri Mendes\Desktop\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\OperacoesString\obj\Debug\net10.0\OperacoesString.genruntimeconfig.cache
+C:\Users\Yuri Mendes\Desktop\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\OperacoesString\obj\Debug\net10.0\ref\OperacoesString.dll
+C:\Users\Yuri Mendes\Desktop\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\OperacoesString\obj\Debug\net10.0\Operacoe.4E031B3D.Up2Date
