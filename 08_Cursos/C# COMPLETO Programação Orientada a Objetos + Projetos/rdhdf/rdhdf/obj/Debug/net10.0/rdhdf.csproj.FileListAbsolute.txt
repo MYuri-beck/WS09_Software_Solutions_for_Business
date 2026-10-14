@@ -1,0 +1,16 @@
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\rdhdf\rdhdf\bin\Debug\net10.0\rdhdf.exe
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\rdhdf\rdhdf\bin\Debug\net10.0\rdhdf.deps.json
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\rdhdf\rdhdf\bin\Debug\net10.0\rdhdf.runtimeconfig.json
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\rdhdf\rdhdf\bin\Debug\net10.0\rdhdf.dll
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\rdhdf\rdhdf\bin\Debug\net10.0\rdhdf.pdb
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\rdhdf\rdhdf\obj\Debug\net10.0\rdhdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\rdhdf\rdhdf\obj\Debug\net10.0\rdhdf.AssemblyInfoInputs.cache
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\rdhdf\rdhdf\obj\Debug\net10.0\rdhdf.AssemblyInfo.cs
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\rdhdf\rdhdf\obj\Debug\net10.0\rdhdf.csproj.CoreCompileInputs.cache
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\rdhdf\rdhdf\obj\Debug\net10.0\rdhdf.sourcelink.json
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\rdhdf\rdhdf\obj\Debug\net10.0\rdhdf.dll
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\rdhdf\rdhdf\obj\Debug\net10.0\refint\rdhdf.dll
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\rdhdf\rdhdf\obj\Debug\net10.0\rdhdf.pdb
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\rdhdf\rdhdf\obj\Debug\net10.0\rdhdf.genruntimeconfig.cache
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\rdhdf\rdhdf\obj\Debug\net10.0\ref\rdhdf.dll
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\rdhdf\rdhdf\obj\Debug\net10.0\rdhdf.csproj.Up2Date

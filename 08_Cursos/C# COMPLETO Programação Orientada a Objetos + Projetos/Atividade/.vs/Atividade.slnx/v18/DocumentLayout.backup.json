@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nudep.yuri\\Desktop\\WS09_Software_Solutions_for_Business\\08_Cursos\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Atividade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC17E3C-6644-4BC6-AB58-E5C18B96186C}|Atividade\\Atividade.csproj|c:\\users\\nudep.yuri\\desktop\\ws09_software_solutions_for_business\\08_cursos\\c# completo programa\u00E7\u00E3o orientada a objetos \u002B projetos\\atividade\\atividade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC17E3C-6644-4BC6-AB58-E5C18B96186C}|Atividade\\Atividade.csproj|solutionrelative:atividade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nudep.yuri\\Desktop\\WS09_Software_Solutions_for_Business\\08_Cursos\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Atividade\\Atividade\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade\\Program.cs",
+              "ToolTip": "C:\\Users\\nudep.yuri\\Desktop\\WS09_Software_Solutions_for_Business\\08_Cursos\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\Atividade\\Atividade\\Program.cs",
+              "RelativeToolTip": "Atividade\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T21:47:10.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

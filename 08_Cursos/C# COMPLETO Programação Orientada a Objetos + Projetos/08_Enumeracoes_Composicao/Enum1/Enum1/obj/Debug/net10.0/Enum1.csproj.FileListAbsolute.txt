@@ -1,0 +1,16 @@
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Enum1\Enum1\bin\Debug\net10.0\Enum1.exe
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Enum1\Enum1\bin\Debug\net10.0\Enum1.deps.json
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Enum1\Enum1\bin\Debug\net10.0\Enum1.runtimeconfig.json
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Enum1\Enum1\bin\Debug\net10.0\Enum1.dll
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Enum1\Enum1\bin\Debug\net10.0\Enum1.pdb
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Enum1\Enum1\obj\Debug\net10.0\Enum1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Enum1\Enum1\obj\Debug\net10.0\Enum1.AssemblyInfoInputs.cache
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Enum1\Enum1\obj\Debug\net10.0\Enum1.AssemblyInfo.cs
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Enum1\Enum1\obj\Debug\net10.0\Enum1.csproj.CoreCompileInputs.cache
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Enum1\Enum1\obj\Debug\net10.0\Enum1.sourcelink.json
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Enum1\Enum1\obj\Debug\net10.0\Enum1.dll
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Enum1\Enum1\obj\Debug\net10.0\refint\Enum1.dll
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Enum1\Enum1\obj\Debug\net10.0\Enum1.pdb
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Enum1\Enum1\obj\Debug\net10.0\Enum1.genruntimeconfig.cache
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Enum1\Enum1\obj\Debug\net10.0\ref\Enum1.dll
+C:\Users\nudep.yuri\Desktop\WS09_Software_Solutions_for_Business\08_Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Enum1\Enum1\obj\Debug\net10.0\Enum1.csproj.Up2Date
